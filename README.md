@@ -1,1 +1,1 @@
-Baisc http proxy, for my own personal use :)
+Baisc http proxy to forward api requests
